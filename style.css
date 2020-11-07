@@ -1,0 +1,25 @@
+.importante1{
+    background-color: red;
+}
+.importante2{
+    background-color: blue;
+}
+#item{
+    font-size: x-large;
+}
+#item1{
+    font: italic;
+}
+.soldados{
+    border: dashed;
+    letter-spacing: 1cm;
+}
+#naves{
+    text-transform: lowercase;
+}
+.apoyo{
+    text-align: center;
+}
+.fondo{
+    background-image: url(https://cdn.pixabay.com/photo/2016/01/27/15/25/space-1164579_1280.png);
+}
